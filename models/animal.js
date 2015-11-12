@@ -1,4 +1,4 @@
-var mongoose = require('mongoose');  
+var mongoose = require('mongoose');
 var AnimalSchema = new mongoose.Schema({
   name:           String,
   breed:          String,
